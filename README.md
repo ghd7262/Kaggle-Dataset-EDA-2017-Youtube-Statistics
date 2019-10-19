@@ -6,6 +6,7 @@
 - This dataset consists of 16 features with about 40,000 rows.
 
 - Following are the features of the dataset:
+
 `video_id`
 `trending_date`
 `title`
