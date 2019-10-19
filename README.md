@@ -23,3 +23,8 @@
 `ratings_disabled`
 `video_error_or_removed`
 `description`
+
+- Libraries used:
+```python
+Pandas, Numpy, Matplotlib, Seaborn, Cufflinks, Plotly, Wordcloud
+```
